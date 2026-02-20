@@ -1,14 +1,14 @@
 {"books": [{
     "id":1,
-    "title": "Modified-Book-25 ---The Universe and Dr. Einstein",
+    "title": "The Amazing Fantasy ",
     "year": 2005,
     "published": true
 
 },
 {
     "id":2,
-    "title": "Book #2 ---- Einstein on politics",
-    "year": 2013,
+    "title": "Detective Comics #27",
+    "year": 1939,
     "published": true
 },
 {
