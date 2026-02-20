@@ -1,48 +1,52 @@
-{"books": [{
-    "id":1,
-    "title": "The Amazing Fantasy ",
-    "year": 1962,
-    "stocked": true
-},
 {
-    "id":2,
-    "title": "Detective Comics #27",
-    "year": 1939,
-    "stocked": true
-},
-{
-    "id":3,
-    "title": "Young Blood #1",
-    "year": 2025,
-    "stocked": false
-},
-{
-    "id":4,
-    "title": "Hellboy #1",
-    "year": 1997,
-    "stocked": false
-},
-  {
-    "id":5,
-    "title": "The Last Ronin",
-    "year": 2020,
-    "stocked": true
-},
-{
-    "id":6,
-    "title": "Action Comics #1000",
-    "year": 2018,
-    "in stock": true
-},
-{
-    "id":7,
-    "title": "BRZRKR #1",
-    "year": 2021,
-    "stocked": true
-},
-{
-    "id":8,
-    "title": "Dragon Ball #4",
-    "year": 2009,
-    "stocked": true
-}]}
+  "books": [
+    {
+      "id": 1,
+      "title": "The Amazing Fantasy",
+      "year": 1962,
+      "stocked": true
+    },
+    {
+      "id": 2,
+      "title": "Detective Comics #27",
+      "year": 1939,
+      "stocked": true
+    },
+    {
+      "id": 3,
+      "title": "Young Blood #1",
+      "year": 2025,
+      "stocked": false
+    },
+    {
+      "id": 4,
+      "title": "Hellboy #1",
+      "year": 1997,
+      "stocked": false
+    },
+    {
+      "id": 5,
+      "title": "The Last Ronin",
+      "year": 2020,
+      "stocked": true
+    },
+    {
+      "id": 6,
+      "title": "Action Comics #1000",
+      "year": 2018,
+      "stocked": true
+    },
+    {
+      "id": 7,
+      "title": "BRZRKR #1",
+      "year": 2021,
+      "stocked": true
+    },
+    {
+      "id": 8,
+      "title": "Dragon Ball #4",
+      "year": 2009,
+      "stocked": true
+    }
+  ]
+}
