@@ -2,31 +2,31 @@
     "id":1,
     "title": "The Amazing Fantasy ",
     "year": 1962,
-    "in stock": true
+    "in-stock": true
 },
 {
     "id":2,
     "title": "Detective Comics #27",
     "year": 1939,
-    "in stock": true
+    "in-stock": true
 },
 {
     "id":3,
     "title": "Young Blood #1",
     "year": 2025,
-    "in stock": false
+    "in-stock": false
 },
 {
     "id":4,
     "title": "Hellboy #1",
     "year": 1997,
-    "in stock": false
+    "in-stock": false
 },
   {
     "id":5,
     "title": "The Last Ronin",
     "year": 2020,
-    "in stock": true
+    "in-stock": true
 },
 {
     "id":6,
@@ -38,11 +38,11 @@
     "id":7,
     "title": "BRZRKR #1",
     "year": 2021,
-    "in stock": true
+    "in-stock": true
 },
 {
     "id":8,
     "title": "Dragon Ball #4",
     "year": 2009,
-    "in stock": true
+    "in-stock": true
 }]}
